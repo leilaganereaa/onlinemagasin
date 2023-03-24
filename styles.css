@@ -174,10 +174,7 @@ h4{
     background-color: #fffeef;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
-    text-align: left;
-    font-size: medium;
-    position: relative;
-   left: 100px;
+    text-align: center
 }
 
 .artikel3{
@@ -185,4 +182,9 @@ h4{
 }
 .bananside{
     background-color: #fffeef;
+}
+
+h6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium
 }
